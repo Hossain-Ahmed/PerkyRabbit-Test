@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Update Book";
+}
+@model BookBO
+
+<div>
+    <form id="subscriptionForm" action="/Book/AddNewBook" method="post">
+        <p>
+            @Html.HiddenFor(m => m.Id, new { Value = ViewBag.bookId })
+        </p>
+        <p>
+            Enter your Title
+            <br />
+            @Html.TextBoxFor(x => x.Title)
+        </p>
+        <p>
+            Enter your Author
+            <br />
+            @Html.TextBoxFor(x => x.Author)
+        </p>
+        <p>
+            Enter your Description
+            <br />
+            @Html.TextBoxFor(x => x.Description)
+        </p>
+        <p>
+            Enter your TotalPages
+            <br />
+            @Html.TextBoxFor(x => x.TotalPages)
+        </p>
+        <input type="reset" value="Submit" id="Save" />
+        <span id="msg" style="color:red;" />
+    </form>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $('#Save').click(function () {
+            var data = $("#subscriptionForm").serialize();
+            $.ajax({
+                type: "POST",
+                url: "/Book/BookUpdate",
+                data: data,
+            })
+        })
+    })
+
+</script>
+

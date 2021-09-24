@@ -1,0 +1,73 @@
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.deps.json
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.dll
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csprojAssemblyReference.cache
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfoInputs.cache
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfo.cs
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CoreCompileInputs.cache
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CopyComplete
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.dll
+E:\2_Preparation Files\Project Setup\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csprojAssemblyReference.cache
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfoInputs.cache
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfo.cs
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CoreCompileInputs.cache
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.dll
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.deps.json
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.dll
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+E:\4_DIU\Final Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CopyComplete
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.deps.json
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.dll
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csprojAssemblyReference.cache
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfoInputs.cache
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfo.cs
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CoreCompileInputs.cache
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CopyComplete
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.dll
+E:\4_DIU\Project\Final-Project\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csprojAssemblyReference.cache
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfoInputs.cache
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfo.cs
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CoreCompileInputs.cache
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.dll
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.deps.json
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.dll
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+E:\4_DIU\Project\Final-Project\New folder\E-Election Voting\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CopyComplete
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.deps.json
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.dll
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csprojAssemblyReference.cache
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfoInputs.cache
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfo.cs
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CoreCompileInputs.cache
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CopyComplete
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.dll
+E:\4_GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.deps.json
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.dll
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.pdb
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.AssemblyReference.cache
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfoInputs.cache
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfo.cs
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CoreCompileInputs.cache
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CopyComplete
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.dll
+E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.pdb

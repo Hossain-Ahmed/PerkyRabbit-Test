@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "All Books";
+}
+@model RegistrationData;
+<div class="container">
+    <h5>All Books</h5>
+    <table id="example" class="table table-striped" style="width:100%">
+        <thead>
+            <tr>
+
+                <th><h5><b>Title</b></h5></th>
+                <th><h5><b>Author</b></h5></th>
+                <th><h5><b>Description</b></h5></th>
+                <th><h5><b>Total Pages</b></h5></th>
+                <th><h5><b>Action</b></h5></th>
+                <th><h5><b>Action</b></h5></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model.Books)
+            {
+            <tr>
+                <td><b>@book.Title</b></td>
+                <td><b>@book.Author</b></td>
+                <td><b>@book.Description</b></td>
+                <td><b>@book.TotalPages</b></td>
+                <td><b><a asp-controller="Book" asp-action="BookUpdate" asp-route-id=@book.Id class="btn btn-sm btn-danger">Update</a></b></td>
+                <td><b><a asp-controller="Book" asp-action="DeleteSingleBook" asp-route-id=@book.Id class="btn btn-sm btn-danger">Delete</a></b></td>
+            </tr>
+}
+        </tbody>
+    </table>
+</div>
+
