@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Personal\\GitHub\\Project_Self\\My Projects\\Book Store Application\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj": {}
+    "D:\\Development\\Web_proejct\\PerkyRabbit-Test\\Book Store Application\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "E:\\Personal\\GitHub\\Project_Self\\My Projects\\Book Store Application\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj": {
+    "D:\\Development\\Web_proejct\\PerkyRabbit-Test\\Book Store Application\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Personal\\GitHub\\Project_Self\\My Projects\\Book Store Application\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Development\\Web_proejct\\PerkyRabbit-Test\\Book Store Application\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
         "projectName": "Demo.DataAccessLayer",
-        "projectPath": "E:\\Personal\\GitHub\\Project_Self\\My Projects\\Book Store Application\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\Personal\\GitHub\\Project_Self\\My Projects\\Book Store Application\\Demo.DataAccessLayer\\obj\\",
+        "projectPath": "D:\\Development\\Web_proejct\\PerkyRabbit-Test\\Book Store Application\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Web_proejct\\PerkyRabbit-Test\\Book Store Application\\Demo.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

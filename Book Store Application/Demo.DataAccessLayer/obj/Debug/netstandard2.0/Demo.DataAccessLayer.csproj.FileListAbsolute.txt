@@ -26,3 +26,12 @@ E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.DataAcce
 E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
 E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.dll
 E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.DataAccessLayer\bin\Debug\netstandard2.0\Demo.DataAccessLayer.deps.json
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.DataAccessLayer\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.DataAccessLayer\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.AssemblyInfo.cs
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.pdb

@@ -10,3 +10,15 @@ E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Membersh
 E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Membership\obj\Debug\net5.0\Demo.Membership.dll
 E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Membership\obj\Debug\net5.0\ref\Demo.Membership.dll
 E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Membership\obj\Debug\net5.0\Demo.Membership.pdb
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\bin\Debug\net5.0\Demo.Membership.deps.json
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\bin\Debug\net5.0\Demo.Membership.dll
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\bin\Debug\net5.0\ref\Demo.Membership.dll
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\bin\Debug\net5.0\Demo.Membership.pdb
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\obj\Debug\net5.0\Demo.Membership.csproj.AssemblyReference.cache
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\obj\Debug\net5.0\Demo.Membership.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\obj\Debug\net5.0\Demo.Membership.AssemblyInfoInputs.cache
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\obj\Debug\net5.0\Demo.Membership.AssemblyInfo.cs
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\obj\Debug\net5.0\Demo.Membership.csproj.CoreCompileInputs.cache
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\obj\Debug\net5.0\Demo.Membership.dll
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\obj\Debug\net5.0\ref\Demo.Membership.dll
+D:\Development\Web_proejct\PerkyRabbit-Test\Book Store Application\Demo.Membership\obj\Debug\net5.0\Demo.Membership.pdb

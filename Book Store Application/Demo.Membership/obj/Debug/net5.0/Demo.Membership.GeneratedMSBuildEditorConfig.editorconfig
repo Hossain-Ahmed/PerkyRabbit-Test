@@ -6,5 +6,3 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Demo.Membership
-build_property.ProjectDir = E:\Personal\GitHub\Project_Self\My Projects\Book Store Application\Demo.Membership\
